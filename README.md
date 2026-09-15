@@ -5,4 +5,5 @@ Heart disease represents one of the leading causes of mortality worldwide, makin
 We chose to focus on heart disease prediction because cardiovascular conditions pose a major threat to global public health, where early detection plays a pivotal role in saving lives. Applying data mining tools to clinical datasets offers a valuable opportunity to build fast, reliable diagnostic support systems that assist medical professionals in making faster and more accurate treatment decisions. Analyzing complex medical metrics allows for the identification of risk factors that might not be immediately obvious, helping to move medicine from reactive treatment to proactive prevention. This project aligns with modern trends in healthcare analytics, demonstrating how computational algorithms and technology can deliver innovative, life-saving solutions to critical medical problems.
 ## Student names:
 Sarah Alsahli 446201976
+
 Hessa Alabbad 446202747
