@@ -1,9 +1,13 @@
 # Heart disease
 ## Project description:
 Heart disease represents one of the leading causes of mortality worldwide, making early and accurate detection a critical medical challenge. This project aims to address this issue by analyzing clinical patient data to identify individuals at risk of cardiovascular complications. To achieve this goal, the project applies two core data mining techniques. First, classification methods are utilized to predict the presence or absence of heart disease based on key clinical attributes such as age, chest pain type, cholesterol levels, resting blood pressure, and maximum heart rate (MaxHR). Second, unsupervised clustering algorithms are applied to group patients sharing similar medical characteristics, enabling the discovery of hidden patterns and distinct patient profiles within the dataset. By combining these approaches, the project provides meaningful, data-driven insights that support early diagnosis and enhance clinical decision-making in healthcare environments.
+
 ## Motivation:
 We chose to focus on heart disease prediction because cardiovascular conditions pose a major threat to global public health, where early detection plays a pivotal role in saving lives. Applying data mining tools to clinical datasets offers a valuable opportunity to build fast, reliable diagnostic support systems that assist medical professionals in making faster and more accurate treatment decisions. Analyzing complex medical metrics allows for the identification of risk factors that might not be immediately obvious, helping to move medicine from reactive treatment to proactive prevention. This project aligns with modern trends in healthcare analytics, demonstrating how computational algorithms and technology can deliver innovative, life-saving solutions to critical medical problems.
+
 ## Student names:
 Sarah Alsahli 446201976
 
 Hessa Alabbad 446202747
+
+Mayas Alofani 446202192 
